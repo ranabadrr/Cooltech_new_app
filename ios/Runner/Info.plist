@@ -7,7 +7,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Allow the Camera to Scan.</string>
 	<key>CFBundleDisplayName</key>
-	<string>Sstmapp</string>
+	<string>Cooltech</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
